@@ -1,6 +1,10 @@
 # SCP-GAN: Self-Correcting Discriminator Optimization for Training Consistency Preserving Metric GAN on Speech Enhancement Tasks
 
-+ Requered packages: PyTorch, NumPy
+Requered packages, software, and hardware:
++  Python 3.8.13
++  PyTorch 1.10 (or 1.11)
++  CUDA 11 
++  Results obtained using four NVIDIA Tesla V100 GPUs
 
 
 If you use method(s) included in the manuscript, please cite as appropriate:
