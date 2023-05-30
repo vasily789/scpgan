@@ -21,3 +21,6 @@ If you use method(s) included in the manuscript, please cite as appropriate:
 ```
 
 ## References:
++ CMGAN: https://github.com/ruizhecao96/CMGAN
++ MetricGAN+: https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN
++ awGAN: https://github.com/vasily789/adaptive-weighted-gans
